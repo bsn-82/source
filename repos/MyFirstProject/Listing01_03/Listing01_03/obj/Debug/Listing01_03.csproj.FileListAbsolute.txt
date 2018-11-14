@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\MyFirstProject\Listing01_03\Listing01_03\bin\Debug\Listing01_03.exe.config
+C:\Users\PC\source\repos\MyFirstProject\Listing01_03\Listing01_03\bin\Debug\Listing01_03.exe
+C:\Users\PC\source\repos\MyFirstProject\Listing01_03\Listing01_03\bin\Debug\Listing01_03.pdb
+C:\Users\PC\source\repos\MyFirstProject\Listing01_03\Listing01_03\obj\Debug\Listing01_03.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MyFirstProject\Listing01_03\Listing01_03\obj\Debug\Listing01_03.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MyFirstProject\Listing01_03\Listing01_03\obj\Debug\Listing01_03.exe
+C:\Users\PC\source\repos\MyFirstProject\Listing01_03\Listing01_03\obj\Debug\Listing01_03.pdb
